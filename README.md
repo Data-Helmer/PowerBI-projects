@@ -19,7 +19,9 @@ Overview: Clife Mart is a rapidly expanding FMCG manufacturer based in Ogun, Nig
 
 Analysis:
 1) Clife Mart failed to meet their target foreach of their customers
+
 Recommendation:
+
 Before implementing the plan to expand to other metros, the following steps can be taken:
 a) Improve inventory management
 b)Boost production efficiency
