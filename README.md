@@ -1,6 +1,5 @@
 # PowerBI-projects
-
-All my business Intelligence project using Power BI
+# All my powerBI projects
 
 Fp20dataanalyticschallenge
 
