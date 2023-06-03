@@ -1,6 +1,9 @@
 # PowerBI-projects
+
 All my business Intelligence project using Power BI
+
 Fp20dataanalyticschallenge
+
 Overview: The challenge is to create a report that provides a sales analysis of the six leading mobile brands in the world across different levels: country, brand, distributor, and operator.
 Analysis:
 1) Columbia amassed the country with the highest sales, followed by Ireland and Salvatore
