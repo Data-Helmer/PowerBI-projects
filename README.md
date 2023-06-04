@@ -26,3 +26,19 @@ Before implementing the plan to expand to other metros, the following steps can 
 a) Improve inventory management
 b)Boost production efficiency
 c) Simplify order processing
+
+# Telecommunication Analysis
+
+overview: I was tasked as a data analyst to create insight about a telecommunication company data before 5G and after 5G network
+
+Analysis:
+
+1) Active users declined after the launch of 5G network while the time periods after 5G also declined.
+2) Abuja had the highest revenue before 5G and after 5G while Minna had the lowest revenue before 5G and after 5G
+3) FEC had the highest market shares
+
+Recommendations
+
+1) Appropriate strategies should be put in place to tackle cities with low revenue
+2) 
+3) there should be finding as to why active users reduced when 5G was introduced, could be the users phone dont support 5G  or 5G  is not as good as 4G
